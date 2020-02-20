@@ -1,0 +1,152 @@
+body{
+    width: 80% !important;
+    overflow-x: hidden;
+}
+nav{
+position: relative;
+    top: 0.7em;
+    left:2em;
+}
+.nav-img {
+ margin-right: 198px;
+position: relative;
+    top: 0.4em;
+
+}
+
+.search{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 0.9em;
+}
+.input-group.md-form.form-sm.form-1 input{
+    border: 2px solid #37A000;
+
+
+}
+.input-group.md-form.form-sm.form-2 input {
+    border: 2px solid #37A000;
+
+}
+.search-icon{
+    color: white;
+    border-color: #37A000;
+    background: #37A000;
+    border-top-right-radius: 0.4em;
+    border-bottom-right-radius: 0.4em;
+
+}
+.input-group.md-form.form-sm.form-1 input{
+    border: 1px solid #bdbdbd;
+  /*here*/
+}
+.input-group.md-form.form-sm.form-2 input {
+    border: 1px solid #bdbdbd;
+
+}
+.input-group.md-form.form-sm.form-2 input.red-border {
+    border: 1px solid #ef9a9a;
+}
+.input-group.md-form.form-sm.form-2 input.lime-border {
+    border: 2px solid #37A000;
+    border-right-color:grey ;
+    border-top-left-radius:  0.4em;
+    border-bottom-left-radius: 0.4em;
+}
+.input-group.md-form.form-sm.form-2 input.amber-border {
+    border: 1px solid #ffca28;
+}
+.search-input::placeholder{
+    font-family: 'Roboto', sans-serif;
+    color:  #37A000;
+
+}
+.drop-nav{
+    background-color: white;
+    border: 2px solid #37A000;
+    border-left-color: white;
+    border-radius: 0px;
+    font-family: 'Roboto Condensed' ,Sans-Serif;
+    font-size:0.9em;
+}
+.serch-bar{
+    width: 487px;
+    height: 32px;
+}
+.cart-img{
+    margin-left: 32px;
+    position: relative;
+    top: 0.1em;
+}
+.cart-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    position: relative;
+    top: 0.2em;
+}
+.cart-num-div{
+
+    background-color: #37A000 ;
+    border-radius: 40%;
+
+}
+.cart-num{
+   color: white;
+padding-left: 5px;
+    padding-right: 5px;
+    font-size: 0.9em;
+    font-family: Roboto,Sans-Serif;
+
+}
+.cart-word{
+    font-family: Roboto.Sans-Serif;
+    position: relative;
+    top: -0.25em;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #37A000;
+    margin-left:2px;
+}
+.avatar{
+    margin-left: 57px;
+    position: relative;
+    top: 0.25em;
+    display: flex;
+    flex-direction: row;
+}
+.avatar-split{
+    font-size: 1.7em;
+    color: black;
+    position: relative;
+    top: -0.3em;
+    margin-left: 0.25em;
+}
+.login{
+    position: relative;
+    top: 0.3em;
+    margin-left: 0.3em;
+    font-size: 0.9em;
+    text-shadow: none;
+    font-family: 'Squada One',Sans-Serif;
+    font-weight: bold;
+}
+.register{
+    position: relative;
+    top: 0.3em;
+    margin-left: 0.3em;
+    font-size: 0.9em;
+    text-shadow: none;
+    font-family: 'Squada One',Sans-Serif;
+    font-weight: bold;
+}
+.language{
+    float: right;
+    position: relative;
+    left:12em;
+    font-size:0.9em;
+    top: 0.3em;
+    font-weight: bold;
+    font-family: Roboto,Sans-Serif;
+}

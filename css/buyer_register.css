@@ -26,13 +26,11 @@
 }
 .content-custom{
     margin-top: 3em;
-    position: relative;
-    right: 2em;
+
     color: #373A3C;
 
 }
 .input-customize{
-    width: 126%;
     border-top-color: white !important;
     border-right-color: white !important;
     border-left-color: white !important;
@@ -51,11 +49,14 @@
     margin-left: 3em;
     font-size: 1.9vw;
     font-family: Roboto, Sans-Serif;
-    margin-bottom: 0.5em;
+    margin-bottom:1em;
 }
 
 .first-input{
     margin-top: 0.5em;
+}
+.second-input-margin{
+    margin-left: 0.2em;
 }
 .btn-submit{
     background-color: #37A000;

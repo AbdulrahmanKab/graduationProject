@@ -186,8 +186,13 @@ a{
     font-family: Roboto,Sans-Serif;
     color: #373A3C;
 }
-
-
+.my-cart-box{
+    margin-top: 2em !important;
+}
+.img-product{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
 a{
     text-decoration: none !important;
     color: inherit !important;
@@ -212,6 +217,68 @@ a{
 }
 .row-background{
     background-color: #fcfbf4;
+}
+.my-cart{
+    font-size: 1.1em;
+    font-family: Roboto, Sans-Serif;
+
+}
+.num-items{
+    font-size: 1.1em;
+}
+.details-product-box{
+    margin-top: 1em;
+}
+.name-of-product{
+    color: #7E859B;
+    font-size: 1.05em;
+    font-family: Mono, Sans-Serif;
+}
+.short-description{
+    font-family: Roboto, Sans-Serif;
+    font-weight: 600;
+    font-size: 1em;
+}
+.time-expect{
+    font-size: 0.8em;
+    color: #7E859B;
+    font-family: Roboto, Sans-Serif;
+
+}
+.nis-word{
+    font-size: 0.9em;
+    color: #7E859B;
+    font-weight: 300;
+    margin-top: 1px;
+}
+.nis-price{
+    font-size: 1.1em;
+    color: #404553;
+    font-weight: 600;
+    font-family: Roboto, Sans-Serif;
+}
+.price-box{
+    margin-top: 1em;
+}
+.quantity{
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    font-family: Roboto, Sans-Serif;
+}
+.content-box{
+    margin-left: 4em
+}
+.box-product{
+    border: 1px solid #EDEDED;
+    margin-top: 1em;
+}
+.order-box{
+    margin-top: 2em;
+    background-color: #F7F9FE;
+}
+.order-word{
+    font-size: 1.1em;
+    font-family: Roboto, Sans-Serif;
 }
 .we-are{
     margin-left: 5em;

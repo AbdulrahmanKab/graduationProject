@@ -279,6 +279,54 @@ a{
 .order-word{
     font-size: 1.1em;
     font-family: Roboto, Sans-Serif;
+    margin-top: 0.5em;
+}
+.total{
+    font-family: Roboto, Sans-Serif;
+    font-size: 1.05em;
+    color: #707070;
+}
+.items{
+    color: #7E859B;
+    font-size: 0.9em;
+}
+.price-result-box{
+    margin-right: 0.9em;
+}
+.total-box{
+    margin-top: 1em;
+}
+.nis-result{
+    font-size: 0.9em;
+    color: #404553;
+    font-weight: 300;
+    font-family: Roboto, Sans-Serif;
+}
+.price-result{
+    font-size: 1em;
+    font-family: Roboto, Sans-Serif;
+    color: #404553;
+    font-size: 1em;
+    font-weight: 600;
+}
+.shipping{
+    font-family: Roboto, Sans-Serif;
+    font-size: 1.05em;
+    color: #707070;
+}
+.shipping-box{
+    margin-top: 0.5em;
+}
+.line-hr{
+    color:#B2BBD2;
+
+}
+.btn-checkout{
+    background-color: #1369B9;
+    color: white;
+    font-weight: 500;
+    padding: 7px;
+    font-family: Roboto, Sans-Serif;
 }
 .we-are{
     margin-left: 5em;

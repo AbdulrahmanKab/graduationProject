@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4ae3a523-2337-4135-a0b6-5282e63da6ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/cart.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -164,7 +163,16 @@
       <workItem from="1586358643095" duration="9000" />
       <workItem from="1586478129263" duration="72000" />
       <workItem from="1586518549347" duration="787000" />
-      <workItem from="1586551594813" duration="5512000" />
+      <workItem from="1586551594813" duration="5609000" />
+      <workItem from="1586894304289" duration="317000" />
+      <workItem from="1586899217007" duration="2026000" />
+      <workItem from="1586948404293" duration="599000" />
+      <workItem from="1586963763186" duration="88000" />
+      <workItem from="1587301369745" duration="46000" />
+      <workItem from="1587990910373" duration="1973000" />
+      <workItem from="1588154295450" duration="1541000" />
+      <workItem from="1588243629705" duration="5775000" />
+      <workItem from="1588257494784" duration="6175000" />
     </task>
     <servers />
   </component>
